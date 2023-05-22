@@ -1,0 +1,6 @@
+
+    (communicate fire-station police-station)
+    (dispatch-fire-station fire-station area-1)
+    (dispatch-police-station police-station area-2)
+    (dispatch-ambulance-station ambulance-station area-3)
+    
